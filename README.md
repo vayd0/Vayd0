@@ -2,7 +2,8 @@
 
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vayd0&show_icons=true&locale=en&layout=compact" alt="vayd0" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vayd0&show_icons=true&locale=en" alt="vayd0" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vayd0&show_icons=true&locale=en&layout=compact" alt="vayd0" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=vayd0&show_icons=true&locale=en" alt="vayd0" />
 </div>
 
 
