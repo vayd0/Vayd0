@@ -1,3 +1,12 @@
-<img align="right" alt="Arizaki Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vayd0&theme=tokyonight&show_icons=true&hide_border=true" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vayd0&label=Profile%20views&color=0e75b6&style=flat" alt="vayd0" /> </p>
 
-![Your Repository's Stats]( https://github-readme-stats.vercel.app/api/top-langs/?username=Vayd0&theme=tokyonight )
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/kty7ezFtWR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kty7ezFtWR" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vayd0&show_icons=true&locale=en&layout=compact" alt="vayd0" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vayd0&show_icons=true&locale=en" alt="vayd0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vayd0&" alt="vayd0" /></p>
