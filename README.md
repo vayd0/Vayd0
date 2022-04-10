@@ -1,9 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vayd0&label=Profile%20views&color=0e75b6&style=flat" alt="vayd0" /> </p>
+<img align="right" alt="Vayd Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vayd0&theme=tokyonight&show_icons=true&hide_border=true" />
 
-
-
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vayd0&show_icons=true&locale=en&layout=compact" alt="vayd0" /><img src="https://github-readme-stats.vercel.app/api?username=vayd0&show_icons=true&locale=en" alt="vayd0" /></p>
-
-
-
-
+![Your Repository's Stats]( https://github-readme-stats.vercel.app/api/top-langs/?username=Vayd0&theme=tokyonight )
