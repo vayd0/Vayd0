@@ -56,7 +56,3 @@
   <img src="https://github-profile-trophy.vercel.app?username=vayd0&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=vayd0&platform=github" 
-    width="800" height="600" frameborder="0"></iframe>
-###
