@@ -52,7 +52,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vayd0&locale=en&mode=daily&theme=dark_lover&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=vayd0&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
   <img src="https://github-profile-trophy.vercel.app?username=vayd0&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
