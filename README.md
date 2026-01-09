@@ -1,6 +1,6 @@
-# 👋 Bonjour, je suis **vayd0**
+# Bonjour, je suis **Théo**
 
-## 🚀 Développeur Web Fullstack
+## Développeur Web Fullstack
 
 Développeur Full-Stack passionné par la création de projets personnels et l'exploration des technologies Frontend et Backend. J'aime construire des solutions robustes et élégantes.
 
@@ -11,7 +11,7 @@ Développeur Full-Stack passionné par la création de projets personnels et l'e
 
 ---
 
-## 🛠️ Stack Technique
+## Stack
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,11 +19,12 @@ Développeur Full-Stack passionné par la création de projets personnels et l'e
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-### Frontend & Mobile
+### Framework/Lib
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Discord.js](https://img.shields.io/badge/discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -34,12 +35,10 @@ Développeur Full-Stack passionné par la création de projets personnels et l'e
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Discord.js](https://img.shields.io/badge/discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
-## 📊 Statistiques GitHub
-
+## Statistiques GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vayd0&show_icons=true&theme=dark&hide_border=true" alt="Stats GitHub" />
 </div>
