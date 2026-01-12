@@ -1,4 +1,3 @@
-# Bonjour, je suis **Théo**
 
 ## Développeur Web Fullstack
 
@@ -42,3 +41,7 @@ Développeur Full-Stack passionné par la création de projets personnels et l'e
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vayd0&show_icons=true&theme=dark&hide_border=true" alt="Stats GitHub" />
 </div>
+
+## Anciens comptes
+<a href="https://github.com/Funckly">Funckly</a>
+<a href="https://github.com/Kzyx0">Kxyz0</a>
