@@ -44,4 +44,4 @@ Développeur Full-Stack passionné par la création de projets personnels et l'e
 
 ## Anciens comptes
 <a href="https://github.com/Funckly">Funckly</a>
-<a href="https://github.com/Kzyx0">Kxyz0</a>
+<a href="https://github.com/kzyx0">Kxyz0</a>
