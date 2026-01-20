@@ -5,7 +5,7 @@ Développeur Full-Stack passionné par la création de projets personnels et l'e
 
 <div align="center">
 <a href="https://github.com/Pranesh-2005/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=vayd0" />
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=vayd0&theme=dark" />
 </a>
   <img src="https://github-profile-trophy.vercel.app?username=vayd0&theme=alduin&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" />
 </div>
