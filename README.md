@@ -4,7 +4,9 @@
 Développeur Full-Stack passionné par la création de projets personnels et l'exploration des technologies Frontend et Backend. J'aime construire des solutions robustes et élégantes.
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vayd0" alt="GitHub Streak" /></a>
+<a href="https://github.com/Pranesh-2005/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=vayd0" />
+</a>
   <img src="https://github-profile-trophy.vercel.app?username=vayd0&theme=alduin&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" />
 </div>
 
