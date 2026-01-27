@@ -7,6 +7,7 @@ Bonjour, moi c'est Théo, j'ai 19 ans et depuis 7 ans j'aime crée des expérien
 <a href="https://github.com/Pranesh-2005/github-readme-stats">
   <img height=200 align="start" src="https://github-readme-stats-fast.vercel.app/api/streak?username=vayd0&theme=dark" />
 </a>
+  <img src="https://views-counter.vercel.app/badge?pageId=vayd0&leftColor=000000&rightColor=0adb3f&type=total&label=Viewers&style=none" alt="Views Counter">
 </div>
 
 ---
@@ -35,13 +36,6 @@ Bonjour, moi c'est Théo, j'ai 19 ans et depuis 7 ans j'aime crée des expérien
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## Statistiques GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vayd0&show_icons=true&theme=dark&hide_border=true" alt="Stats GitHub" />
-</div>
 
 ## Anciens comptes
 <a href="https://github.com/Funckly">Funckly</a>
