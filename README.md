@@ -1,7 +1,7 @@
 
 ## Développeur Web Fullstack
 
-J'aime crée des expériences créatives et robustes depuis 7 ans.
+Bonjour, moi c'est Théo, j'ai 19 ans et depuis 7 ans j'aime crée des expériences créatives et robustes.
 
 <div align="center">
 <a href="https://github.com/Pranesh-2005/github-readme-stats">
