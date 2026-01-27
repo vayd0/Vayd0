@@ -1,8 +1,3 @@
-
-## Développeur Web Fullstack
-
-Bonjour, moi c'est Théo, j'ai 19 ans et depuis 7 ans j'aime crée des expériences créatives et robustes.
-
 <div align="start">
 <a href="https://github.com/Pranesh-2005/github-readme-stats">
   <img height=200 align="start" src="https://github-readme-stats-fast.vercel.app/api/streak?username=vayd0&theme=dark" />
