@@ -5,7 +5,7 @@ Bonjour, moi c'est Théo, j'ai 19 ans et depuis 7 ans j'aime crée des expérien
 
 <div align="center">
 <a href="https://github.com/Pranesh-2005/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=vayd0&theme=dark" />
+  <img height=200 align="left" src="https://github-readme-stats-fast.vercel.app/api/streak?username=vayd0&theme=dark" />
 </a>
 </div>
 
