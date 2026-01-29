@@ -1,5 +1,4 @@
 Salut, je m'appelle Théo et j'aime bien dev de temps en temps.
----
 
 ## Stack
 
