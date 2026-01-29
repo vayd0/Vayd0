@@ -1,10 +1,4 @@
-<div align="start">
-<a href="https://github.com/Pranesh-2005/github-readme-stats">
-  <img height=200 align="start" src="https://github-readme-stats-fast.vercel.app/api/streak?username=vayd0&theme=dark" />
-</a>
-  <img src="https://views-counter.vercel.app/badge?pageId=vayd0&leftColor=000000&rightColor=0adb3f&type=total&label=Viewers&style=none" alt="Views Counter">
-</div>
-
+Salut, je m'appelle Théo et j'aime bien dev de temps en temps.
 ---
 
 ## Stack
