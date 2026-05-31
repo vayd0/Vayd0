@@ -1,4 +1,4 @@
-Salut, je m'appelle Théo et j'aime créer.
+Salut, je m'appelle Théo et j'aime avoir des idées et leurs donner vie.
 
 ## Stack
 
