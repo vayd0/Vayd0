@@ -10,10 +10,12 @@ Salut, je m'appelle Théo et j'aime avoir des idées et leurs donner vie.
 
 #### Framework/Lib
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 ![Three.js](https://img.shields.io/badge/three.js-black?style=flat&logo=three.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white)
-![Discord.js](https://img.shields.io/badge/discord.js-%235865F2.svg?style=flat&logo=discord&logoColor=white)
+![Discord.js](https://img.shields.io/badge/discord.js-%235865F2.svg?style=flat&logo=discord.js&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat&logo=ejs&logoColor=black)
 
 #### Backend & Database
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
